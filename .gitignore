@@ -1,0 +1,6 @@
+/client/.idea
+/client/node_modules
+/server/__pycache__
+/server/Dockerfile
+/server/test.py
+/server/data.db
